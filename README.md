@@ -10,7 +10,18 @@
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots of your Power BI report pages here)*
+### 🏆 Season 2008 — Rajasthan Royals Champions
+![IPL Dashboard 2008](screenshots/Screenshot_2026-03-27_220746.png)
+
+---
+
+### 📅 Season Selector — Year Dropdown in Action (2010 shown)
+![IPL Dashboard Season Selector](screenshots/Screenshot_2026-03-27_220901.png)
+
+---
+
+### 🥇 Season 2025 — Royal Challengers Bangalore Champions
+![IPL Dashboard 2025](screenshots/Screenshot_2026-03-27_220930.png)
 
 ---
 
@@ -23,6 +34,10 @@ power_bi_project/
 ├── ipl_matches_data.csv         # Match-level data: results, venues, toss info
 ├── players-data-updated.csv     # Player profiles: batting/bowling styles, images
 ├── teams_data.csv               # Team metadata: names, short codes, logos
+├── screenshots/                 # Dashboard preview images
+│   ├── Screenshot_2026-03-27_220746.png
+│   ├── Screenshot_2026-03-27_220901.png
+│   └── Screenshot_2026-03-27_220930.png
 └── README.md                    # Project documentation (this file)
 ```
 
