@@ -11,17 +11,17 @@
 ## 📸 Dashboard Preview
 
 ### 🏆 Season 2008 — Rajasthan Royals Champions
-![IPL Dashboard 2008](screenshots/Screenshot_2026-03-27_220746.png)
+![IPL Dashboard 2008](Screenshot 2026-03-27 220746.png)
 
 ---
 
 ### 📅 Season Selector — Year Dropdown in Action (2010 shown)
-![IPL Dashboard Season Selector](screenshots/Screenshot_2026-03-27_220901.png)
+![IPL Dashboard Season Selector](Screenshot_2026-03-27_220901.png)
 
 ---
 
 ### 🥇 Season 2025 — Royal Challengers Bangalore Champions
-![IPL Dashboard 2025](screenshots/Screenshot_2026-03-27_220930.png)
+![IPL Dashboard 2025](Screenshot_2026-03-27_220930.png)
 
 ---
 
