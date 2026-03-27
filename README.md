@@ -4,18 +4,18 @@
 ![IPL](https://img.shields.io/badge/IPL-2008--2025-blue?style=for-the-badge)
 ![CSV](https://img.shields.io/badge/Data-CSV-green?style=for-the-badge)
 
-> An interactive Power BI analytics dashboard covering **17 seasons** of the Indian Premier League (IPL), from the inaugural 2008 season to 2025. Explore team performance, player stats, match outcomes, toss trends, and much more — all in one place.
+> An interactive Power BI analytics dashboard covering **17 seasons** of the Indian Premier League (IPL), from 2008 to 2025. Explore team performance, player stats, match outcomes, and toss trends in one place.
 
 ---
 
 ## 📸 Dashboard Preview
 
 ### 🏆 Season 2008 — Rajasthan Royals Champions
-![IPL Dashboard 2008](Screenshot 2026-03-27 220746.png)
+![IPL Dashboard 2008](Screenshot%202026-03-27%20220746.png)
 
 ---
 
-### 📅 Season Selector — Year Dropdown in Action (2010 shown)
+### 📅 Season Selector — Year Dropdown (2010 shown)
 ![IPL Dashboard Season Selector](Screenshot_2026-03-27_220901.png)
 
 ---
@@ -27,18 +27,17 @@
 
 ## 📁 Project Structure
 
-```
-power_bi_project/
-│
-├── IPL_2008-2025.pbit           # Power BI Template file (main report)
-├── ipl_matches_data.csv         # Match-level data: results, venues, toss info
-├── players-data-updated.csv     # Player profiles: batting/bowling styles, images
-├── teams_data.csv               # Team metadata: names, short codes, logos
-├── screenshots/                 # Dashboard preview images
-│   ├── Screenshot_2026-03-27_220746.png
-│   ├── Screenshot_2026-03-27_220901.png
-│   └── Screenshot_2026-03-27_220930.png
-└── README.md                    # Project documentation (this file)
+```text
+.
+├── IPL%202008-2025.pbit         # Power BI Template file
+├── dataset/                     # Folder containing CSV files
+│   ├── ipl_matches_data.csv
+│   ├── players-data-updated.csv
+│   └── teams_data.csv
+├── Screenshot 2026-03-27 220746.png
+├── Screenshot 2026-03-27 220901.png
+├── Screenshot 2026-03-27 220930.png
+└── README.md
 ```
 
 ---
